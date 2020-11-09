@@ -1,15 +1,16 @@
-const num = 10 // number
-let string = 'Mate'; // string
+const num = 10 // szam
+let string = 'Mate'; // karakterlanc
 let tomb = [3, 5, 3, 43, 12, -4]; // array, tomb
 let objektum = { nev: 'Feri', kor: 29 }; // objektum
 let logikai = false; // logikai ertek, boolean
 
 /* 2. FELADAT:
-A const deklaralt valtozok erteket nem tudjuk megvaltoztatni, let eseteben igen.
+ A const deklaralt valtozok erteket nem tudjuk megvaltoztatni, let eseteben igen.
 */
 
-/* 3. FELADAT A referencia szerinti atadas soran a valtozo eredeti erteke/tartalma is modosul, ilyen pl
- a tomb es objektum. Veluk ellentetben a primitiv valtozok, mint pl. a string vagy number eredeti erteke nem modosul
+/* 3. FELADAT:
+ A referencia szerinti atadas soran a valtozo eredeti erteke/tartalma is modosul, ilyen pl.
+ a tomb es az objektum. Veluk ellentetben a primitiv valtozok, mint pl. a string vagy number eredeti erteke nem modosul
  a fuggvenymeghivast kovetoen.
 */
 
@@ -19,6 +20,7 @@ const eldontes = (arr, szam) => {
     for (let i = 0; i < arr.length; i++) {
         if (arr[i] === szam) {
             containsElement = true;
+            break;
         };
     };
     return containsElement;
@@ -26,9 +28,9 @@ const eldontes = (arr, szam) => {
 
 // 5. FELADAT:
 let tombObj = [
-   {name: 'Avocado', age: 2},
-   {name: 'Korte', age: 4},
-   {name: 'Alma', age: 1}
+    { name: 'Avocado', age: 2 },
+    { name: 'Korte', age: 4 },
+    { name: 'Alma', age: 1 }
 ];
 
 const maximum = (arr) => {
@@ -48,8 +50,8 @@ const doubleDigits = () => {
     for (let i = 10; i < 100; i++) {
         if (i % 2 === 0) {
             console.log(i);
-        }
-    }
+        };
+    };
 };
 
 // 7. FELADAT:
@@ -62,7 +64,7 @@ const metszet = (arr1, arr2) => {
         for (let k = 0; k < arr2.length; k++) {
             if (arr1[i] === arr2[k] && !section.includes(arr1[i])) {
                 section.push(arr1[i]);
-            }
+            };
         };
     };
     return section;
@@ -73,7 +75,7 @@ const indices = (a, b) => {
     let dest = new Array(a);
     for (let i = 0; i < a; i++) {
         dest[i] = new Array(b);
-    }
+    };
     for (let i = 0; i < a; i++) {
         for (let k = 0; k < b; k++) {
             dest[i][k] = i * k;
