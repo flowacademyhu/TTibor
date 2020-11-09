@@ -1,0 +1,2000 @@
+cd decrypt/
+git checkout -b tibi
+git push
+git push --set-upstream origin tibi
+git push --set-upstream origin TTibi1
+git push --set-upstream origin tibi
+pwd
+git push --set-upstream origin tibi
+cd ../
+git push --set-upstream origin tibi
+cd decrypt/
+git push
+git status
+ls
+git add encrypted.txt
+git commit
+git push --set-upstream origin tibi
+git status
+ls
+git log
+cd ../
+git add encrypted.txt
+cd git2
+ls
+cd decrypt/
+ls
+git add encrypted.txt 
+git commit 
+git push --set-upstream origin tibi
+git push
+git commit
+git add encrypted.txt 
+git commit
+git push
+git log
+git status
+nano encrypted.txt 
+cd 5ora/
+node gyakorlat.js 
+node decrypt.js 
+cd gitclone
+cd git2
+cd decrypt/
+git add encrypted.txt 
+git commit
+git add gyakorlat.js 
+cit commit
+git commit
+git push
+touch decrypt.js
+ls
+git add decrypt.js 
+git commit
+git push
+ls
+git add gyakorlat.js 
+git commit
+cd gitclone/git2
+cd git2
+ls
+cd decrypt/
+touch push.txt
+git add push.txt 
+git commit
+git push
+vim push.txt 
+git add push.txt 
+git commit
+git push
+git log
+git status
+cat encrypted.txt 
+pwd
+// ELSO MEGOLDAS:
+const abc = 'abcdefghijklmnopqrstuvwxyz';
+const counter = 0;
+const decrypt = (abc) => {
+};
+pwd
+cd 5or
+cd 5ora/
+node decrypt.js 
+ls
+cd LinuxPosix/
+ls
+cd scriptGyak/
+ls
+vim shfeladatok.sh 
+sh shfeladatok.sh 45 34
+vim shfeladatok.sh 
+sh shfeladatok.sh 45 34
+vim shfeladatok.sh 
+sh shfeladatok.sh 45 34
+sh shfeladatok.sh 44 34
+sh shfeladatok.sh 44 344
+sh shfeladatok.sh 44 11
+sh shfeladatok.sh 43 11
+vim shfeladatok.sh 
+sh shfeladatok.sh 43 11
+sh shfeladatok.sh 44 11
+sh shfeladatok.sh 44 14
+vim shfeladatok.sh 
+sh shfeladatok.sh 44 14
+vim shfeladatok.sh 
+sh shfeladatok.sh 44 14
+sh shfeladatok.sh 44 string
+sh shfeladatok.sh 44 66
+vim shfeladatok.sh 
+sh shfeladatok.sh 44 66
+vim shfeladatok.sh 
+sh shfeladatok.sh 44 66
+sh shfeladatok.sh 44 63
+vim shfeladatok.sh 
+sh shfeladatok.sh 44 63
+sh shfeladatok.sh 44 64
+vim shfeladatok.sh 
+sh shfeladatok.sh 44 64
+vim shfeladatok.sh 
+sh shfeladatok.sh 44 64
+vim shfeladatok.sh 
+sh shfeladatok.sh 44 64
+vim shfeladatok.sh 
+sh shfeladatok.sh 44 64
+sh shfeladatok.sh 44 63
+sh shfeladatok.sh 44 61
+sh shfeladatok.sh 43 61
+vim shfeladatok.sh 
+sh shfeladatok.sh 43 61
+vim shfeladatok.sh 
+sh shfeladatok.sh 43 61
+sh shfeladatok.sh 44 64
+sh shfeladatok.sh 41 20
+vim shfeladatok.sh 
+sh shfeladatok.sh 41 20
+vim shfeladatok.sh 
+sh shfeladatok.sh 41 20
+vim shfeladatok.sh 
+sh shfeladatok.sh 41 20
+vim shfeladatok.sh 
+sh shfeladatok.sh 41 20
+vim shfeladatok.sh 
+sh shfeladatok.sh 41 20
+vim shfeladatok.sh 
+sh shfeladatok.sh 41 20
+vim shfeladatok.sh 
+sh shfeladatok.sh 41 20
+vim shfeladatok.sh 
+sh shfeladatok.sh 41 20
+vim shfeladatok.sh 
+sh shfeladatok.sh 41 20
+vim shfeladatok.sh 
+sh shfeladatok.sh 41 20
+vim shfeladatok.sh 
+sh shfeladatok.sh 41 20
+vim shfeladatok.sh 
+sh shfeladatok.sh 41 20
+vim shfeladatok.sh 
+cd CodeWars/
+node funnyDigits.js 
+sh shfeladatok.sh 41 20
+node funnyDigits.js 
+node 3or5.js.js 
+node 3or5.js 
+npm install semistandard -g
+sudo npm install semistandard -g
+cd 6ora/
+node progTetelek2.js 
+node rendezesek.js 
+node tobbDimTomb.js 
+npm install readline-sync
+node npmCsomagok.js 
+node tobbDimTomb.js 
+cd ../5
+cd ../5ora/
+ls
+node gyakorlat.js 
+ls
+node gyakorlat.js 
+standard.engine
+cd 6ora
+pwd
+ls
+node varosok.js 
+cd 6ora/
+node otthoniprobak.js 
+git branch
+git log
+ls
+cd gitclone/
+git status
+ls
+cd git1
+git status
+cd ../git2
+ls
+git status
+git log
+cd decrypt/
+git status
+cd .. cd ..
+cd .. ..
+cd ....
+cd ..
+git@github.com:TothTibor-gh/git-test.git
+git init
+git@github.com:TothTibor-gh/git-test.git
+git clone
+git clone git@github.com:TothTibor-gh/git-test.git
+git status
+cd git-test/
+git status
+touch maximum
+vim maximum
+cat maximum 
+git add maximum 
+git commit
+git push
+vim fizzbuzz
+git add fizzbuzz 
+git commit
+git push
+vim fizzbuzz 
+git add fizzbuzz 
+git commit
+git push
+vim fizzbuzz 
+git add fizzbuzz 
+git commit
+git push
+vim tombParos
+git add tombParos 
+git commit
+git push
+vim tombParos 
+git add tombParos 
+git commit
+git push
+vim minMax
+git add minMax 
+git commit
+git push
+vim minMax 
+git add minMax 
+git commit
+git push
+vim hszog
+git add hszog 
+git commit
+git push
+vim hszog
+git add hszog
+git commit
+git push
+git pushcd
+cd /
+cd ..
+cd cd ~
+cd ~
+ls -la
+vim .bashrc 
+cd 6ora
+node proba.js 
+node 1pr
+cd ..
+node 1ProgTetelek.js 
+ls
+cd gitclone/
+ls
+git clone git@github.com:TothTibor-gh/pacman.git
+ls
+cd pacman
+git status
+touch index.js
+git add index.js 
+git commit
+git push
+cd ..
+cd gitclone/pacman/
+ls
+code .
+index.js
+open index.js
+xdg-open index.js
+cd gitclone/
+ls
+cd pacman
+ls
+ls -la
+cat .gitignore 
+vim .gitignore
+ls
+git add .
+git status
+git add .
+git commit
+git push
+npm init
+ls -la
+npm i table
+npm i readline-sync
+git status
+
+node index.js
+node index.js 
+git status
+git add index.js 
+git add map.js
+git status
+git commit
+git push
+git status
+git add index.js 
+git add map.js
+git commit 
+git push
+node index.js 
+git status
+git add index.js 
+git add map.js 
+git add random.js 
+git commit
+git push
+git status
+node index.js 
+A
+node index.js 
+A
+node index.js 
+A
+node index.js 
+node ember.js
+node timeout.js 
+cd
+cd ProgAlap/
+ls
+mkdir 7ora
+cd 7ora/
+cd
+cd pacman/
+node index.js 
+clear
+node index.js 
+node dsf.js 
+node index.js 
+clear
+node index.js 
+cd pacman/
+node index.js 
+cd pacma
+cd pacman/
+node index.js 
+code .
+ls
+cd Desktop/
+touch fuggvenyjegyzet.txt
+exit
+cd Desktop/
+touch fuggvJegyzet.odt
+ls
+cd ../ProgAlap/
+node proba.js 
+[A
+node proba.js 
+[A
+node proba.js 
+[A
+node proba.js 
+[A
+node proba.js 
+clear
+node proba.js 
+clear
+node proba.js 
+cd ../gitclone/pacman
+node map.js 
+cd ../../ProgAlap/
+node proba.js 
+clear
+node proba.js 
+ls
+cd .config
+ls
+cd libreoffice/
+cd 4
+cd user/
+ls
+cd backup/
+ls
+cd ..
+xdg-open backup/
+ls
+ls
+npm init
+npm install readline-sync
+node proba.js 
+node hoeses.js
+node hoeses.js 
+const table = require('table');
+const axel = require('axel');
+const generateMap = (width, height) => {
+};
+const fillMap = (arr) => {
+};
+const addSnow = (arr, num) => {
+};
+const falling = (arr) => {
+};
+const printMap = (arr) => {
+};
+const printMapAxel = (arr) => {
+};
+module.exports = {
+const table = require('table');
+const axel = require('axel');
+const generateMap = (width, height) => {
+};
+const fillMap = (arr) => {
+};
+const addSnow = (arr, num) => {
+};
+const falling = (arr) => {
+};
+const printMap = (arr) => {
+};
+const printMapAxel = (arr) => {
+};
+module.exports = {
+npm i axel
+node hoes
+cd Tanari/
+node hoeses.js
+cd ..
+ls
+node hoeses.js 
+node proba.js 
+npm i table
+node proba.js 
+node hoes
+node hoeses.js 
+clear
+node proba.js 
+A
+node proba.js 
+clear
+node proba.js 
+clear
+node proba.js 
+cd ..
+cd gitclone/pacman/
+node index.js 
+ls
+cd ProgAlap/
+ls
+cat proba.js
+vim proba.js 
+nano proba.js 
+node proba.js 
+cd ../gitclone/pacman/
+node index.js 
+cd ../hoeses/
+node map.js 
+node index.js 
+node map.js 
+node index.js 
+node map.js 
+cd hoeses/
+node main.js 
+cd ..
+npm init
+npm i table
+npm i axel
+node main.js 
+cd hoeses/
+node main.js 
+clear
+cd
+cd ProgAlap/
+ls
+cd CodeWars/
+node proba.js 
+cd kozosProjekt/
+cd JS_math/
+node pow.js 
+cd GIT
+ls
+git init
+ls
+git remote add origin git@github.com:TothTibor-gh/git-push.git
+git branch -M main
+git remote and origin git@github.com:TothTibor-gh/git-push.git
+git remote add origin git@github.com:TothTibor-gh/git-push.git
+git add GITjegyzet.txt 
+git commit
+git remote add origin git@github.com:TothTibor-gh/git-push.git
+git branch -m main
+git status
+git push -u origin main
+git remote add origin git@github.com:TothTibor-gh/git-push.git
+git init
+echo "# git-push" >> README.md
+git init
+git add README.md 
+git commit -m "second commit"
+git branch -M main
+git remote add origin git@github.com:TothTibor-gh/git-push.git
+git push -u origin main
+git remote add origin git@github.com:TothTibor-gh/git-push.git
+git remote add GIT git@github.com:TothTibor-gh/git-push.git
+cd ..
+ls
+cd gitclone
+mkdir kozosProjekt
+cd kozosProjekt/
+git@github.com:TothTibor-gh/JS_math.git
+git init
+git@github.com:TothTibor-gh/JS_math.git
+cd ..
+git@github.com:TothTibor-gh/JS_math.git
+cd kozosProjekt/
+git clone git@github.com:TothTibor-gh/JS_math.git
+git checkout -b develop
+git status
+git branch
+git checkout main
+git status
+git checkout main
+git add JS_math/
+cd JS_math/
+git branch
+git checkout -b develop
+git branch
+git push
+git push --set-upstream origin develop
+git branch
+git status
+git branch
+git checkout -b tibor
+git branch
+git pull
+git branch
+touch pow.js
+git add pow.js 
+git commit
+git push
+git push --set-upstream origin tibor
+git push
+git checkout develop
+git branch
+git checkout tibor 
+git branch
+git checkout tibor
+git pull
+git checkout tibor
+git branch
+git add pow.js 
+ls
+git commit pow.js 
+git chechkout tibor
+git checkout tibor
+git commit
+git checkout tibor
+git push
+clear
+git checkout tibor
+git branch
+git status
+git pull
+git commit
+git branch
+clear
+git checkout tibor
+git checkout main
+git checkout develop
+git checkout tibor
+git commit pow.js
+git status
+git stash
+git checkout tibor
+git stash pop
+code .
+git branch
+git add pow.js 
+git commit
+git push
+git status
+git checkout develop
+ls
+touch main.js
+vim main.js 
+git branch
+git add main.js 
+git commit
+git push
+git fetch
+ls
+git push
+git pull
+ls
+git push
+ls
+git pull
+vim main.js 
+git status
+git pull
+ls
+vim main.js 
+git checkout main 
+ls
+git pull
+git branch
+git checkout develop
+git merge tibor
+git branch
+git checkout tibor
+touch generateArray.js
+code .
+ls
+rm generateArray.js 
+ls
+git branch
+git pull
+git branch
+git pull
+ls
+git checkout develop 
+LS
+ls
+git pull
+ls
+git checkout tibor
+ls
+git pull
+ls
+code .
+git checkout develop
+git pull
+git checkout tibor
+git merge develop
+cd kozosProjekt/
+ls
+cd JS_math/
+node modul.js 
+git add modul.js 
+git commit
+git push
+node modul.js 
+git add modul.js 
+git commit
+git push
+git status
+git push
+git add modul.js 
+git commit
+git push
+mkdir elsoProjekt
+cd elsoProjekt
+git clone git@github.com:flowacademyhu/iota_math-invaders.git
+touch .gitignore
+vim .gitignore 
+ls
+cd iota_math-invaders/
+touch .gitignore
+vim .git
+ls
+vim .gitignore
+git add .gitignore
+git commit 
+git push
+git pull
+git branch
+git status
+git branch
+git log
+git branch
+git checkout develop
+git branch
+git checkout main
+branch
+git branch
+git checkout develop
+git checkout -b tibi
+git branch
+git push
+git push --set-upstream origin tibi
+git branch
+git merge develop
+ls
+git branch
+ls
+cd Desktop/
+touch HTML.txt
+xdg-open HTML.txt 
+cd elsoProjekt/
+ls
+cd iota_math-invaders/
+ls
+git branch
+git pull
+git branch
+ls
+cat map.js
+cd ..
+git branch
+cd iota_math-invaders/
+git branch
+git checkout develop
+git pull
+git checkout tibi
+git add
+git checkout develop
+git pull
+ls
+cat map.js 
+git checkout tibi
+git merge develop
+git branch
+ls
+cat map.js 
+ls -la
+git branch
+git checkout main
+git checkout tibi
+git merge main
+mkdir HTML
+LS
+ls
+cd HTML
+cd ../gitclone/
+ls
+cd kozosProjekt/
+ls
+cd JS_math/
+ls
+cd ..
+ls
+cd ..
+ls
+cd elsoProjekt/
+ls
+git branch
+ls
+cd iota_math-invaders/
+git branch
+git merge develop
+git branch develop
+git checkout develop
+git pull
+git checkout tiib
+git checkout tibi
+git status
+ls
+git checkout develop
+ls
+git branch
+git pull
+git checkout tibi
+git status
+git merge develop
+git add map.js
+git commit 
+node map.js
+git branch
+git push
+node map.js
+ls
+cd Docu
+status
+ps
+ps -A
+ls
+cd gitclone/
+ls
+cd kozosProjekt/
+ls
+cd JS_math/
+ls
+cd 
+cd elsoProjekt/
+cd iota_math-invaders/
+node index.js 
+git add map.js 
+git branch
+git merge develop
+git checkout main
+git branch
+git add map.js
+git commit
+git push
+git status
+git push
+git branch
+git checkout develop 
+git pull
+git checkout tibi
+git merge develop
+git add .
+git commit
+git push
+cd
+ls
+cd elsoProjekt/
+cd iota_math-invaders/
+node index.js 
+npm init
+npm install table
+node index.js 
+cd 
+cd ProgAlap/CodeWars/
+node proba.js 
+cat
+node scoreboardP.js 
+cd elsoProjekt/iota_math-invaders/
+node scoreboard.js 
+cd
+ls
+cd Down
+cd Downloads/
+npm init
+npm i prompt
+node scoreboard.js 
+npm i prompt
+node scoreboard.js 
+node scoreboard.js ~
+node scoreboard.js
+npm init
+npm i readline-sync
+node scoreboard.js
+cd 
+cd elsoProjekt/
+cd iota_math-invaders/
+git branch
+git branch develop
+git checkout developo
+git checkout develop
+git status
+git pull
+git status
+git branch
+git pull
+code .
+git branch
+git checkout tibi
+git status
+git log
+git branch
+git merge develop
+git branch 
+git status
+git checkout develop
+git pull
+git stash
+git pull
+git status
+git checkout tibi
+git merge develop
+git status
+git push
+git add .
+git commit
+git branch
+git push
+git status
+git checkout develop
+git status
+cat .gitignore
+git status
+git checkout tibi
+#git status
+git status
+ls
+git checkout develop
+ls
+git checkout tibi
+node index.js
+git branch
+git status
+cd ..
+cd proba/
+git status
+node index.js
+npm i table
+npm init
+npm i readline-sync
+node index.js
+npm i table
+node scoreboard.js 
+npm i readline-sync
+node scoreboard.js 
+npm i table
+node scoreboard.js 
+node index.js 
+node scoreboard.js 
+node index.js 
+clear
+node index.js 
+clear
+node index.js 
+cd 
+cd CodeWars/
+node proba.js 
+cd
+cd elsoProjekt/
+cd proba/
+node index.js 
+cd
+cd CodeWars/
+node proba.js 
+clear
+node proba.js 
+cd Desktop/
+vim HaloIsmeretek.txt
+vim HaloIsmeretek.txt 
+apt-get install netcat
+sudo apt-get install netcat
+nc
+nc example.com 80
+clear
+nc example.com 80
+ls
+cd GyakMappa/
+echo "Hello Flow" > hello.txt
+cat hello.txt 
+{ echo -ne "HTTP/1.0 200 OK\r\nContent-Length: $(wc -c <hello.txt)\r\n\r\n"; cat hello.txt; } | nc -1 8080
+{ echo -ne "HTTP/1.0 200 OK\r\nContent-Length: $(wc -c <hello.txt)\r\n\r\n"; cat hello.txt; } | nc -l 8080
+cd
+sudo apt-get install netutils
+sudo apt-get install dnsutils
+dig facebook.com
+dig
+dig google.com
+dig facebook.com
+nc -l 5000
+net-tools
+sudo apt-get install net-tools
+ifconfig
+ifconfig ipconfig
+ipconfig
+ip config
+ifconfig
+ifconfig | grep inet
+nc 192.168.5.32 5000
+cd 
+cd elsoProjekt/
+cd iota_math-invaders/
+node index.js 
+git init
+git i readline-sync
+npm init
+npm i readline-sync
+node index.js 
+git add .
+git commit
+git branch
+git push
+git status
+git log
+nc localhost 5000
+nc 192.168.5.55
+nc 192.168.5.55 5000
+nc -l 5000
+nc -l 5000 > incoming.txt
+ls
+cat incoming.txt 
+echo incoming.txt 
+nano incoming.txt 
+cat incoming.txt | nc 192.168.5.55 5000
+cat incoming.txt 
+cd iota_math-invaders/
+git status
+git branch
+git checkout develop
+git pull
+git checkout tibi
+git checkout develop
+git branch
+git add index.js 
+git commit
+git push
+git checkout develop
+git pull
+git branch
+git status
+git checkout tibi
+git merge develop
+code .
+git add .
+git commit
+git push
+git branch
+git checkout develop
+git pull
+git status
+git checkout tibi
+git status
+ 
+node index.js 
+npm i axel
+node scoreboard.js 
+clear
+node gui.js 
+CLEAR
+clear
+node gui.js 
+node gui.js q
+clear
+node gui.js q
+node gui.js
+clear
+node gui.js
+clea
+clear
+node gui.js
+clear
+node gui.js
+clear
+cd elsoProjekt/iota_math-invaders/
+
+node gui.js 
+clear
+node gui.js 
+clear
+node gui.js 
+clear
+node gui.js 
+clear
+node gui.js 
+clear
+node gui.js 
+clear
+node gui.js 
+clear
+node gui.js 
+clear
+node gui.js 
+clear
+
+clear
+node gui.js 
+clear
+cd demos
+node gui.js 
+npm i terminal-kit
+node gui.js 
+node index.js
+node gui.js 
+cd
+cd CodeWars/
+node proba.js 
+cd 
+cd ProgAlap/
+cd 6ora/
+node proba.js 
+cd
+cd CodeWars/
+node proba.js 
+npm init
+npm i mocha
+node proba.js 
+npm uninstall mocha
+node proba.js 
+npm uninstall mocha
+node proba.js 
+cd ../elsoProjekt/iota_math-invaders/
+node index.js 
+node scoreboard.js 
+clear
+node scoreboard.js 
+node index.js 
+node scoreboard.js 
+node index.js 
+cd ../CodeWars/
+node proba.js 
+cd ../CodeWars/
+node proba.js 
+cd ../CodeWars/
+node proba.js 
+clear
+node proba.js 
+clear
+node proba.js 
+cd 
+cd elsoProjekt/
+cd iota_math-invaders/
+git branch
+git add scoreboard.js 
+git commit
+git push
+node scoreboard.js 
+clear
+cd ../proba/
+node index.js 
+npm i terminal-kit
+npm i readline-sync
+node index.js 
+cd proba/
+node index.js 
+mkdir terminal-kit
+cd terminal-kit/
+git init
+git clone git@github.com:cronvel/terminal-kit.git
+ls
+cd terminal-kit/
+ls
+code .
+cd proba/
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba/
+node scoreboard.js 
+cd proba/
+node scoreboard.js 
+cd proba/
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba/
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba/
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba/
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba/
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba/
+node scoreboard.js 
+cd proba/
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd porba
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba
+node scoreboard.js 
+cd proba/
+node scoreboard.js 
+cd proba/
+node index.js 
+git init
+rm -rf .git
+git status
+npm init
+npm i terminal-kit
+node index.js 
+node scoreboard.js 
+npm uninstall terminal-kit
+npm i terminal-kit
+node scoreboard.js 
+npm uninstall terminal-kit
+node scoreboard.js 
+npm i terminal-kit
+node scoreboard.js 
+npm uninstall terminal-kit
+cd ..
+cd iota_math-invaders/
+node scoreboard.js 
+node index.js 
+adfasdf
+clear
+node index.js 
+clear
+node index.js 
+cd iota_math-invaders/
+node index.js 
+clear
+node index.js 
+clear
+node index.js 
+clear
+node index.js 
+cd iota_math-invaders/
+node index.js 
+cd iota_math-invaders/
+node index.js 
+cd iota_math-invaders/
+node index.js 
+cd iota_math-invaders/
+node index.js 
+node proba.js 
+node index.js 
+node proba.js 
+git add scoreboard.js 
+git commit
+git push
+git branch
+git develop
+git checkout develop
+git status
+git branch
+git pull
+git status
+git stash
+git branch
+git pull
+git checkout tibi
+git branch
+git status
+git merge develop
+git status
+git push
+git add .
+git commit
+git push
+node index.js 
+cd elsoProjekt/
+cd iota_math-invaders/
+node scoreboard.js 
+node index.js 
+cd elsoProjekt/iota_math-invaders/
+git branch
+git status
+git add ranking.json scoreboard.js 
+git commit
+git push
+git add ranking.json 
+git commit
+git pus
+git push
+clear
+node index.js 
+cat ranking.json 
+node index.js 
+node index.js
+cat ranking.json 
+node index.js 
+cat ranking.json 
+clear
+cat ranking.json 
+node index.js 
+clear
+node proba.js 
+node index.js 
+cat ranking.json 
+node index.js 
+node scoreboard.js 
+cd Desktop/
+vim jegyzet.txt
+exit
+cd elsoProjekt/iota_math-invaders/
+ls
+node scoreboard.js 
+node index.js
+cat ranking.json 
+node index.js
+cat ranking.json 
+node index.js
+clear
+node index.js
+cat ranking
+cat ranking.json 
+node index.js
+cat ranking.json 
+clear
+node index.js 
+cat ranking.json 
+node index.js 
+clear
+node index.js 
+cat ranking.json 
+clear
+node index.js
+node index.js 
+clear
+node proba.js 
+clear
+node index.js 
+cat ranking.json 
+clear
+node index.js 
+clear
+node index.js 
+node proba.js 
+node proba.js
+clear
+node index.js 
+clear
+node index.js 
+clear
+node index.js 
+cat ranking
+cat ranking.json 
+node index.js 
+cat ranking.json 
+node index.js 
+cat ranking.json 
+node index.js 
+cat ranking.json 
+clear
+cat ranking
+cat ranking.json 
+node index.js 
+cat ranking.json 
+node index.js 
+cat ranking.json 
+node index.js 
+git add scoreboard.js
+git add ranking.json 
+git commit
+git push
+clear
+node index.js 
+clear
+node index.js 
+cat ranking
+cat ranking.json 
+node index.js 
+clear
+node index.js 
+node proba.js 
+node index.js 
+git add scoreboard.js 
+git commit
+git branch
+git push
+git add scoreboard.js 
+git add ranking.json 
+git commit
+git push
+node index.js
+git add scoreboard.js 
+git commit
+git branch
+git push
+node index.js
+
+node index.js 
+node scoreboard.js 
+Alma
+node scoreboard.js 
+node index.js 
+node scoreboard.js 
+cd elsoProjekt/
+cd iota_math-invaders/
+node index.js 
+clear
+node index.js 
+cat ranking
+cat ranking.json 
+git add scoreboard.js 
+git commit
+git branch
+git push
+node proba.js 
+node proba.js 
+node index.js 
+node proba.js 
+cd elsoProjekt/
+cd iota_math-invaders/
+node index.js 
+git add scoreboard.js 
+git commit
+git push
+cd elsoProjekt/
+cd iota_math-invaders/
+git status
+git stash
+git checkout develop
+git pull
+git checkout tibi
+git merge develop
+clear
+cd elsoProjekt/iota_math-invaders/
+node firework.js 
+npm i chalk
+node firework.js 
+npm i figlet
+node firework.js 
+pm i lolcatj
+npm lolcatjs
+const printMap = () => {
+npm i lolcatjs
+node firework.js 
+clear
+node firework.js 
+git add fireworks.js
+git add firework.js 
+git commit
+node firework.js 
+npm i react-native-fireworks
+npm i fireworks
+node proba.js 
+npm i fireworks
+node proba.js 
+cd elsoProjekt/iota_math-invaders/
+node proba.js 
+npm i fireworks
+node proba.js 
+npm status
+npm -l
+node proba.js 
+cd elsoProjekt/
+cd iota_math-invaders/
+node fireworks.js 
+node fallingCats.js 
+node index.js 
+node fallingCats.js 
+node index.js 
+cd elsoProjekt/
+cd iota_math-invaders/
+node index.js 
+node proba.js 
+cd elsoProjekt/iota_math-invaders/
+node fallingCats.js 
+git add fallingCats.js 
+git commit
+git push
+git branch
+git status
+git branch
+git commit
+git add .
+git commit
+git merge aniko
+git checkout aniko
+git pull
+git checkout tibi
+git merge aniko
+code .
+git add .
+git commit
+git branch
+git push
+clear
+node index.js 
+cd elsoProjekt/iota_math-invaders/
+clear
+node fallingCats.js 
+node index.js 
+cd CodeWars/
+code .
+node proba.js 
+cd CodeWars/
+code .
+cd ../elsoProjekt/iota_math-invaders/
+code .
+cd elsoProjekt/iota_math-invaders/
+git branch
+git checkout mate
+git stash
+git checkout mate
+git branch
+clear
+git branch
+ls
+npm install mpg123
+git branch
+git checkout tibi
+code .
+git status
+git checkout develop
+git status
+git pull
+git status
+git checkout tibi
+git merge develop
+code .
+git status
+git branch
+git add .
+git commit
+git push 
+node index.js 
+sudo apt-get install mpg123
+node index.js 
+cd elsoProjekt/iota_math-invaders/
+node index.js 
+git status
+git add .
+git commit
+git push
+git status
+git checkout develop
+git status
+nano .gitignore 
+git status
+git fetch
+git status
+git checkout tibi
+git branch
+git merge develop
+node index.js 
+Datolya
+node index.js 
+node fallingCats.js 
+node index.js 
+node fallingCats.js 
+node index.js 
+cd elsoProjekt/iota_math-invaders/
+node fallingCats.js 
+cd elsoProjekt/iota_math-invaders/
+node fallingCats.js 
+node index.js 
+node fallingCats.js 
+git status
+git add fallingCats.js scoreboard.js 
+git commit
+git branch
+git push
+node index.js 
+clear
+node proba.js 
+node index.js 
+node proba.js 
+cd elsoProjekt/iota_math-invaders/
+node index.js 
+cd elsoProjekt/iota_math-invaders/
+node index.js 
+node -v
+git status
+git branch
+git checkout develop 
+git branch
+git stash
+git status
+git checkout develop
+git pull
+git checkout tibi
+git merge develop
+code .
+node index.js 
+npm install
+node index.js 
+cd ../Desk
+cd ..
+cd ../
+cd Desktop/
+vim demo_Scoreboard
+cd elsoProjekt/iota_math-invaders/
+node index.js 
+ifconfig
+ps aux
+ps ax
+node proba.js 
+sudo apt-get update
+sudo apt-get upgrade
+cd elsoProjekt/
+cd /
+ls
+cd home
+ls
+cd tibor
+cd ..
+cd .. ..
+ls
+cd home
+ls
+cat FlowEgyeb 
+ls
+clear
+cd p
+ls
+cat p
+cd ..
+ls
+rmdir p
+cd Teszt/
+ls
+cd T1
+LS
+Ls
+ls
+sl
+ls
+clear
+ls
+cd ../..
+cd /
+cd home/Teszt/
+cd /
+cd home/tibor
+cd /
+cd /home/tibor
+pwd
+cd elsoProjekt/iota_math-invaders/
+pwd
+cd 
+cd .
+ls -la
+ls /
+ls -l
+ls -la
+ls .
+ls 
+ls ..
+cd elsoProjekt/iota_math-invaders/
+ls ..
+ls .
+ls
+cd ..
+cd 
+mkdir macka1/macka2/macka3
+mkdir -p macka1/macka2/macka3
+ls
+cd macka1/macka2/
+ls
+cd
+rmdir macka1/macka2/macka3
+ls
+ls macka1/
+ls macka1/macka2/
+mkdir macka1/macka2/macka3
+ls macka1/macka2/
+rmdir -p macka1/
+rmdir -p macka1/macka2/macka3/
+ls
+mkdir -p macka1/macka2/macka3
+cd macka1
+mkdir macka2.2
+ls
+mv macka2 macka2.2/
+ls
+ls macka2.2/
+mv macka2.2/macka2 macka2.2/
+mv macka2.2/macka2 macka1
+ls
+ls macka2.2/
+ls
+mv macka1 macka2.2/
+ls
+ls macka2.2/
+mv macka2.2/macka1 /macka1
+pwd
+mv macka2.2/macka1 ./macka1
+ls
+mv macka1 macka2.2/
+ls
+ls macka2.2/
+mv macka2.2/macka1/ macka2.2/macka5
+ls macka2.2/
+mv macka2.2/macka5/ ../macka5
+ls
+ls .
+ls ..
+mv ../macka5 ../macka1
+ls 
+ls macka2.2/
+ls macka5
+mv macka5 macka2
+ls
+mv macka2.2 macka2/macka3/
+ls macka2/macka3/
+mv macka2/macka3/macka2.2/ macka1
+ls
+ls macka2/macka3/
+rmdir macka1
+ls
+ls macka2/
+mkdir macka2/macka3/macka4
+mv macka2/macka3/macka4/ ~
+ls ~
+mv macka4 macka2
+mv 
+mv ~/macka4 macka2/macka3/
+ls macka2/macka3/
+ls
+mkdir cpmacka
+cp cpmacka macka2/macka3
+ls
+cp -R cpmacka macka2/macka3
+ls
+ls macka2/macka3/
+cp -r cpmacka macka2
+ls macka2/
+touch file1
+ls
+cp file1 file2
+ls
+cp file1 macka2
+ls
+ls macka2/
+cp file1 mack2/
+rm -r macka2
+ls 
+rm file2
+ls
+cp file1 cpmacka/
+ls cpmacka/
+cp file1 cpmacka/file2
+ls cpmacka/
+vi file1
+stat file1
+du file1
+du
+du -b file1
+vim file1
+du -b file1 
+help set
+clear
+ls
+echo "Egyel cicat" >> file1 
+cat file1 
+echo "Egyel cicat" > file1 
+cat file1 
+stat file1
+ls -l 
+chown group group file1
+chown group.group file1
+chown root.root file1
+sudo chown root.root file1
+ls -l
+sudo chown tibor.root file1
+ls -l
+sudo chown tibor file1
+ls -l
+sudo chown root file1
+ls -l
+sudo chown root.tibor file1
+ls -l
+sudo chmod +rwx
+sudo chmod +rwx file1
+ls -l
+sudo chmod 777 file1
+ls -l
+sudo chown tibor file1
+ls -l
+chmod a-rw
+chmod a-rw file1
+ls -l
+chmod +rw file1 
+ls -l
+chmod 777 file1 
+chmod g-wrx file1 
+ls -l
+chmod u-rwx file1 
+ls -l
+chmod ug+rwx o-w file1 
+chmod ug+rwx file1 
+chmod o-rwx
+chmod o-rwx file1
+ls -l
+cd
+cd LinuxPosix/
+grep daemon
+find "daemon"
+find daemon
+grep chmod
+cat || grep "daemon"
+cd 
+ls
+cd macka1/
+ls
+rmdir cpmacka/
+rmdir -r cpmacka/
+rm -r cpmacka/
+ls
+cat file1 
+cat < file1 
+cat < file1 > file2.txt
+ls
+cat file2.txt 
+cat file1 file2
+cat < file1 > file3
+cat file3
+ls
+cat file1 file2.txt > file3
+cat file3
+cat file1 file2.txt >> file3
+cat file3
+colrm 3-5 file3
+cat file3 || colrm 3-4
+cat file3 | colrm 3-4
+cat file3 | colrm 1-5
+cat file3 | colrm 1-6
+cat file3 | colrm 1-2
+cat file3 | colrm 1 2
+colrm 1-2 file3
+set
+cd
+set
+clear
+set
+clear
+ls -la
+cat .bash_history 
+clear
+echo $PATH
+ls -l
+ls -la
+cat .bashrc
+clear
+nano &
+nano
+nano &
+fg 1 nano
+cat 
+ulimit -u
+top
+crontab
+clear
+ps axu
+ps a
+ps
+ps ax
+ps ax -f
+clear
+fuser .
+fuser
+clear
+ls
+cd macka1
+ls
+mkdir {m1,m2,m3}
+ls
+mkdir -p m1/m2/m3
+ls m1/m2
+mv file1 m1/m2
+ls m1/m2/
+mv m1/m2/file1 .
+ls
+ls m1/m2/
+cp file1 m1/m2/
+ls m1/m2/
+mv file1 file11
+ls
+echo $
+set
+ls
+cat file11
+echo file11
+echo $? 
+cat > gyumolcs
+cat < gyumolcs 
+echo gyumolcs
+echo > gyumolcs
+cat gyumolcs 
+echo "alma" >> gyumolcs
+cat gyumolcs
+cat "alma" >> gyumolcs
+ls
+cd macka1/
+ls
+cp file11 file111
+ls
+systemctl
+ls .
+ls ..
+cd ..
+ls
+cd Unix/
+ls
+cd Linux/
+ls
+touch szoveg.txt
+sudo touch szoveg.txt
+cat "alma" > szoveg.txt 
+cd 
+cd macka1/
+ls
+cat file11
+cat "cica" > file11
+echo "cica" > file11
+cat file11
+echo "szia"
+echo szia
+file11 >> file111
+cat file11 >> file111
+cat file111
+cd 
+cd elsoProjekt/iota_math-invaders/
+git --config
+git --version
+config --config -e
+config --global -e
+git config --global -e
+vim .gitconfig
+git --version
+git status
+git branch bugfix
+git branch
+git checkout -b bugfix2
+git brancgh
+git branch
+git branch -d bugfix
+git branch -d bugfix2 
+git checkout tibi
+git branch
+git stash
+code .
+git stash list
+git stash clear
+git stash list
+git remote
+cd
+ls
+cd macka1
+git init
+git branch
+git add file11
+git commit
+ls
+git push
+git remote add origin git@github.com:TothTibor-gh/GitMacka.git
+git branch
+git status
+git push
+git push --set-upstream origin master
+git status
+cd ..
+ls
+ls GyakMappa/
+cd GyakMappa/
+git clone git@github.com:TothTibor-gh/GitMacka.git
+git status
+git init
+git clone git@github.com:TothTibor-gh/GitMacka.git
+ls
+cd GitMacka/
+git status
+ps a
+ps a -f
+ps axf
+ps axf | grep init
+systemctl
+systemctl start chrome
+crontab -l
+cd elsoProjekt/iota_math-invaders/
+git branch
+git branch -D bugfix2 
+git checkout tibi
+git merge
+git add .
+git checkout tibi
+git branch -d bugfix2 
+git branch
+git status
+node proba.js 
+ls
+node proba.js 
+cd elsoProjekt/iota_math-invaders/
+git diff
+git diff scoreboard.js
+git diff scoreboard.js index.js
+cd macka1/
+ls
+cat file11 file111
+cat file11 file111 >> file2.txt 
+cat file2.txt 
+sort file2.txt 
+uniq file2.txt 
+ls m1 m4 >> file2.txt 2> file11
+cat file11
+cat file2.txt 
+cat file11 >> file2.txt 
+cat file2.txt 
+cat file2.txt | wc | sort
+wc file2.txt 
+node proba.js 
