@@ -1,0 +1,10 @@
+/home/tibor mappaban:
+mkdir szakasszaro
+cd szakasszaro
+touch szakasszaro_feladat
+echo "Hello" > szakasszaro_feladat
+mv szakasszaro_feladat feladat
+cp feladat feladat2
+rm feladat2
+cat feladat
+grep "NetworkManager" /var/log/syslog >> feladat
